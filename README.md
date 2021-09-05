@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaheshReddyI
+- 👋 Hi, I’m @Mahesh Irlapalle 
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning advance python
 - 💞️ I’m looking to collaborate on coding 
